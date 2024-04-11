@@ -32,11 +32,13 @@ p {
 }
 
 .logo {
-    background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-size: contain;
+    background-image: url("https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png");
+    background-color:lightblue ;
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    margin: 10px 10px 10px 30px;
 }
 h1, h2, h3 em {
     padding: 5px;
